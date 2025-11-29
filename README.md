@@ -1,11 +1,11 @@
-# Safi Ahmed — Portfolio
+# 👋 Hi, I'm Safi Ahmed  
 
-Business Management & Digital Innovation student — Python, Power BI, Salesforce.  
-GitHub: https://github.com/safiahmed6677-eng  •  Portfolio: https://github.com/safiahmed6677-eng
+Business Management & Digital Innovation student — building skills in Python, Power BI, Salesforce & automation.  
+Focused on tech-enabled business improvements, data insights, and digital transformation.
 
 ---
 
-## Tech & Tools
+## 🛠️ Tech & Tools
 
 **Languages & Data:** Python, R, SQL, Pandas, NumPy, Matplotlib, scikit-learn  
 **Analytics & BI:** Power BI, Excel, CRM Analytics  
@@ -16,15 +16,31 @@ GitHub: https://github.com/safiahmed6677-eng  •  Portfolio: https://github.com
 
 ---
 
-## Projects
-- **Housing Price Analysis** — Python, Pandas, scikit-learn: regression model + 1-page report. (github.com/safiahmed6677-eng/housing-price-analysis)
-- **Power BI Sales Dashboard** — Interactive dashboard + demo GIF. (github.com/safiahmed6677-eng/powerbi-sales-dashboard)
-- **Salesforce mini-CRM** — Custom objects, Flow automation, dashboards (screenshots).
+## 📌 Currently Working On
+
+- Housing Price Analysis (Python, Pandas, scikit-learn)  
+- Power BI Sales Dashboard (KPIs, filters, drill-downs)  
+- Salesforce Mini-CRM (Custom Objects, Flow Automation, Dashboards)  
+- Python Automation Script (CSV → Cleaned Summary Report)
 
 ---
 
-## Contact
+## 📁 Projects
+
+- **Housing Price Analysis** — Regression model + EDA + 1-page analytics report  
+- **Power BI Sales Dashboard** — KPI cards, filters, drill-down insights  
+- **Salesforce Mini-CRM** — Custom objects, Flow automation, dashboards  
+- **Python Automation Script** — Cleans CSVs + generates summary reports  
+
+(See pinned repositories below.)
+
+---
+
+## 📫 Contact
 
 **Email:** safiahmed7788@outlook.com  
 **Location:** London, UK  
-**LinkedIn:** ()
+**LinkedIn:** (coming soon)
+
+---
+
