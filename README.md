@@ -1,16 +1,13 @@
-## Hi there 👋
+# Safi Ahmed — Portfolio
 
-<!--
-**safiahmed6677-eng/safiahmed6677-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Management & Digital Innovation student — Python, Power BI, Salesforce.  
+GitHub: https://github.com/safiahmed6677-eng  •  Portfolio: https://github.com/safiahmed6677-eng
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Housing Price Analysis** — Python, Pandas, scikit-learn: regression model + 1-page report. (github.com/yourusername/housing-price-analysis)
+- **Power BI Sales Dashboard** — Interactive dashboard + demo GIF. (github.com/yourusername/powerbi-sales-dashboard)
+- **Salesforce mini-CRM** — Custom objects, Flow automation, dashboards (screenshots).
+
+Contact: safiahmed7788@outlook.com
