@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Safi Ahmed  
 
 Business Management & Digital Innovation student — building skills in Python, Power BI, Salesforce & automation.  
+
 Focused on tech-enabled business improvements, data insights, and digital transformation.
 
 ---
