@@ -41,7 +41,7 @@ Focused on tech-enabled business improvements, data insights, and digital transf
 
 **Email:** safiahmed7788@outlook.com  
 **Location:** London, UK  
-**LinkedIn:** (coming soon)
+**LinkedIn:** www.linkedin.com/in/safi-ahmed-bb2900265
 
 ---
 
