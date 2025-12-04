@@ -1,47 +1,69 @@
-# 👋 Hi, I'm Safi Ahmed  
+# Safi Ahmed — Digital Innovation & Data Projects
 
-Business Management & Digital Innovation student — building skills in Python, Power BI, Salesforce & automation.  
+Hi, I'm **Safi Ahmed** — a Business Management & Digital Innovation student focused on  
+**data analytics**, **automation**, and **tech-enabled problem solving**.
 
-Focused on tech-enabled business improvements, data insights, and digital transformation.
-
----
-
-## 🛠️ Tech & Tools
-
-**Languages & Data:** Python, R, SQL, Pandas, NumPy, Matplotlib, scikit-learn  
-**Analytics & BI:** Power BI, Excel, CRM Analytics  
-**CRM & Automation:** Salesforce (Admin, Flow Automation), Process Builder  
-**Cloud:** AWS Cloud Fundamentals  
-**Design:** Photoshop, Blender  
-**Version Control:** Git, GitHub
+I build projects that combine **Python**, **Power BI**, **Salesforce**, and **cloud tools**  
+to improve processes, create insights, and support better business decisions.
 
 ---
 
-## 📌 Currently Working On
+## 🔧 Tech Stack
 
-- Housing Price Analysis (Python, Pandas, scikit-learn)  
-- Power BI Sales Dashboard (KPIs, filters, drill-downs)  
-- Salesforce Mini-CRM (Custom Objects, Flow Automation, Dashboards)  
-- Python Automation Script (CSV → Cleaned Summary Report)
+**Languages & Data**
+- Python, R, SQL  
+- Pandas, NumPy, Matplotlib, scikit-learn  
+
+**Analytics & BI**
+- Power BI, Excel, CRM Analytics  
+
+**CRM & Automation**
+- Salesforce (Admin, Flows, Validation Rules, Automation)
+
+**Cloud**
+- AWS Cloud Fundamentals  
+
+**Design**
+- Photoshop, Blender  
+
+**Version Control**
+- Git, GitHub  
 
 ---
 
-## 📁 Projects
+## 📂 Current Work
 
-- **Housing Price Analysis** — Regression model + EDA + 1-page analytics report  
-- **Power BI Sales Dashboard** — KPI cards, filters, drill-down insights  
-- **Salesforce Mini-CRM** — Custom objects, Flow automation, dashboards  
-- **Python Automation Script** — Cleans CSVs + generates summary reports  
+### **Housing Price Analysis (Python)**
+Data cleaning, exploratory analysis, and regression modelling to identify key pricing drivers.  
+Includes visualisations and a one-page analytical summary.
 
-(See pinned repositories below.)
+### **Power BI Sales Dashboard**
+End-to-end dashboard with KPIs, slicers, drill-downs, and product/region performance trends.
+
+### **Salesforce Mini-CRM**
+Custom object model, tailored page layouts, list views, premium-customer automation, and email alerts.
+
+### **Python Automation Script**
+Automates CSV cleaning, KPI generation, and summary output for recurring datasets.
 
 ---
 
-## 📫 Contact
+## 🗂 Project Portfolio Overview
+
+- **Housing Price Analysis** — EDA, regression, insights  
+- **Power BI Sales Dashboard** — KPI tracking & business insights  
+- **Salesforce Mini-CRM** — Data model + Flow automation  
+- **Python Automation Tool** — File processing and reporting
+
+See pinned repositories for full project details.
+
+---
+
+## 📬 Contact
 
 **Email:** safiahmed7788@outlook.com  
 **Location:** London, UK  
-**LinkedIn:** www.linkedin.com/in/safi-ahmed-bb2900265
+**LinkedIn:** https://www.linkedin.com/in/safi-ahmed-bb2900265  
 
----
+
 
