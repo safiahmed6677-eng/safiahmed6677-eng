@@ -8,7 +8,7 @@ to improve processes, create insights, and support better business decisions.
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack 
 
 **Languages & Data**
 - Python, R, SQL  
