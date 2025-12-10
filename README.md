@@ -147,6 +147,21 @@ Python script that loads a CSV, cleans data, and generates a summary report auto
 
 ---
 
+### 🚧 Current Project: Full-Stack Business Intelligence Platform (Mini SaaS)
+
+I’m currently building a **full-stack Business Intelligence platform** designed as a **mini SaaS** product.  
+The application uses:
+
+- **Next.js** – Modern, performant frontend with server-side capabilities  
+- **Express** – Backend API powering data flows and business logic  
+- **PostgreSQL** – Reliable relational database for structured analytics data  
+- **Prisma** – Type-safe ORM for efficient database interactions  
+- **Custom JWT Authentication** – Secure, scalable access control built from scratch  
+
+This project brings together data processing, API architecture, and intuitive dashboard interfaces to create a production-oriented BI platform.
+
+---
+
 ## 📫 Contact
 **Email:** safiahmed7788@outlook.com  
 **Location:** London, UK  
