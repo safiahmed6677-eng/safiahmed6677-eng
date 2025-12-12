@@ -139,7 +139,7 @@ Python script that loads a CSV, cleans data, and generates a summary report auto
 
 ---
 
-## 📅 Current Focus
+## 🎯 Current Priorities
 - Improving Python automation scripts  
 - Learning more Salesforce automation (Flow + CRM Analytics)  
 - Building business-focused dashboards  
