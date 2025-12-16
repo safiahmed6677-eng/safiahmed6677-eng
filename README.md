@@ -167,12 +167,26 @@ Node.js, Express, MongoDB, Mongoose, JWT
 
 ---
 
-## 📅 Current Focus
-- Developing **Biz Insights**, a full-stack analytics platform  
-- Refining React dashboards and data visualisation UX  
-- Strengthening backend API design and authentication flows  
-- Expanding MongoDB data modelling and analytics endpoints  
-- Continuing to improve Python automation and BI projects  
+## 🎯 Current Priorities
+- Improving Python automation scripts  
+- Learning more Salesforce automation (Flow + CRM Analytics)  
+- Building business-focused dashboards  
+- Strengthening SQL + Power BI portfolio pieces  
+
+---
+
+### 🚧 Current Project: Full-Stack Business Intelligence Platform (Mini SaaS)
+
+I’m currently building a **full-stack Business Intelligence platform** designed as a **mini SaaS** product.  
+The application uses:
+
+- **Next.js** – Modern, performant frontend with server-side capabilities  
+- **Express** – Backend API powering data flows and business logic  
+- **PostgreSQL** – Reliable relational database for structured analytics data  
+- **Prisma** – Type-safe ORM for efficient database interactions  
+- **Custom JWT Authentication** – Secure, scalable access control built from scratch  
+
+This project brings together data processing, API architecture, and intuitive dashboard interfaces to create a production-oriented BI platform.
 
 ---
 
