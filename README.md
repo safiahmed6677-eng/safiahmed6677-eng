@@ -30,6 +30,8 @@
   - [Power-BI Sales Dashboard](#2-power-bi-sales-dashboard)
   - [Salesforce Mini-CRM](#3-salesforce-mini-crm)
   - [Python Data Automation](#4-python-data-automation)
+  - [Biz Insights – Full-Stack Analytics Platform](#5-biz-insights--full-stack-analytics-platform)
+
 - [Current Focus](#current-focus)
 - [Contact](#contact)
 
@@ -45,6 +47,8 @@ I enjoy combining:
 - **Business Strategy**
 
 …to solve real problems with clean, practical solutions.
+
+I’m currently building **Biz Insights**, a full-stack analytics platform that brings together data ingestion, visualisation, and business-focused insights in a real-world web application.
 
 ---
 
@@ -136,14 +140,39 @@ Python script that loads a CSV, cleans data, and generates a summary report auto
 **Tech Stack:** Python, Pandas  
 **Status:** ✓ Complete
 
+---
+
+## **5) Biz Insights – Full-Stack Analytics Platform**
+📂 `biz-insights-frontend` / `biz-insights-backend`  
+
+A **full-stack business analytics web application** that allows users to upload datasets, explore insights, and visualise data through interactive charts.
+
+This project brings together **frontend dashboards, backend APIs, authentication, and database design** into a single, scalable system.
+
+**Features**
+- Secure JWT-based authentication (register, login, protected routes)  
+- CSV dataset upload and validation  
+- Dataset management (list, select, analyse)  
+- Automatic column type detection (numeric vs categorical)  
+- Interactive charts with dynamic column selection  
+- Dataset preview and summary statistics  
+- Clean REST API architecture with MongoDB persistence  
+
+**Tech Stack:**  
+React, Vite, Recharts, Axios  
+Node.js, Express, MongoDB, Mongoose, JWT  
+
+**Status:** 🚧 Active Development  
+**Next Milestones:** UI refinement, advanced analytics, deployment-ready configuration
 
 ---
 
 ## 📅 Current Focus
-- Improving Python automation scripts  
-- Learning more Salesforce automation (Flow + CRM Analytics)  
-- Building business-focused dashboards  
-- Strengthening SQL + Power BI portfolio pieces  
+- Developing **Biz Insights**, a full-stack analytics platform  
+- Refining React dashboards and data visualisation UX  
+- Strengthening backend API design and authentication flows  
+- Expanding MongoDB data modelling and analytics endpoints  
+- Continuing to improve Python automation and BI projects  
 
 ---
 
