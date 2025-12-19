@@ -24,9 +24,14 @@
 
 ## 📘 Table of Contents
 - [About Me](#about-me)
-- [ESG Readiness for UK SMEs](#esg-readiness-for-uk-smes)
 - [Skills & Technologies](#skills--technologies)
 - [Highlighted Projects](#highlighted-projects)
+  - [Housing Price Analysis](#1-housing-price-analysis)
+  - [Power-BI Sales Dashboard](#2-power-bi-sales-dashboard)
+  - [Salesforce Mini-CRM](#3-salesforce-mini-crm)
+  - [Python Data Automation](#4-python-data-automation)
+  - [Biz Insights – Full-Stack Analytics Platform](#5-biz-insights--full-stack-analytics-platform)
+
 - [Current Focus](#current-focus)
 - [Contact](#contact)
 
@@ -44,32 +49,6 @@ I enjoy combining:
 …to solve real problems with clean, practical solutions.
 
 I’m currently building **Biz Insights**, a full-stack analytics platform that brings together data ingestion, visualisation, and business-focused insights in a real-world web application.
-
----
-
-## ESG Readiness for UK SMEs
-*(Supplier & Sustainability Questionnaires)*
-
-I help **UK SMEs (10–250 employees)** who are receiving **ESG / sustainability / supplier questionnaires** get **questionnaire-ready in 7 days** by setting up a **simple ESG KPI tracker and evidence pack** — so these requests stop disrupting day-to-day work.
-
-### What I provide
-- ESG KPI tracker (energy, travel, workforce, governance)
-- Procurement-ready evidence pack structure
-- Basic policy templates (e.g. anti-bribery, supplier code of conduct)
-- Questionnaire response guidance and assumptions notes
-- 1–2 page ESG readiness summary
-
-### Pricing
-- **7-day setup:** £495 (one-off)  
-- **Ongoing support:** £399/month (optional)
-
-### Example documents
-### Example documents
-- [ESG Readiness Checklist (PDF)](https://github.com/safiahmed6677-eng/safiahmed6677-eng/blob/main/esg-readiness/ESG_Readiness_Checklist.pdf)
-- [Initial ESG Data Request (PDF)](https://github.com/safiahmed6677-eng/safiahmed6677-eng/blob/main/esg-readiness/Initial_ESG_Data_Request.pdf)
-
-
-> This service applies accounting, reporting, and data structuring principles to ESG in a **proportionate, SME-appropriate way** — focused on clarity, consistency, and defensible responses rather than overclaiming.
 
 ---
 
