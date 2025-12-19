@@ -64,9 +64,11 @@ I help **UK SMEs (10–250 employees)** who are receiving **ESG / sustainability
 - **Ongoing support:** £399/month (optional)
 
 ### Example documents
-- [ESG Readiness Checklist (PDF)](./esg-readiness/ESG_Readiness_Checklist.pdf)
-- [Initial ESG Data Request (PDF)](./esg-readiness/Initial_ESG_Data_Request.pdf)
-- [Checklist Usage Guide (PDF)](./esg-readiness/ESG_Checklist_Usage_Guide.pdf)
+### Example documents
+- [ESG Readiness Checklist (PDF)](https://github.com/safiahmed6677-eng/safiahmed6677-eng/blob/main/esg-readiness/ESG_Readiness_Checklist.pdf)
+- [Initial ESG Data Request (PDF)](https://github.com/safiahmed6677-eng/safiahmed6677-eng/blob/main/esg-readiness/Initial_ESG_Data_Request.pdf)
+- [Checklist Usage Guide (PDF)](https://github.com/safiahmed6677-eng/safiahmed6677-eng/blob/main/esg-readiness/ESG_Checklist_Usage_Guide.pdf)
+
 
 > This service applies accounting, reporting, and data structuring principles to ESG in a **proportionate, SME-appropriate way** — focused on clarity, consistency, and defensible responses rather than overclaiming.
 
