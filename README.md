@@ -215,6 +215,7 @@ This project brings together data processing, API architecture, and intuitive da
 **Email:** safiahmed7788@outlook.com  
 **Location:** London, UK  
 **LinkedIn:** https://www.linkedin.com/in/safi-ahmed-bb2900265
+**Email:** (ESG enquiries): safi.esg@gmail.com  
 
 ---
 
