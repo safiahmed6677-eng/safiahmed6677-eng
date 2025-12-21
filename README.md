@@ -64,7 +64,6 @@ I help **UK SMEs (10–250 employees)** who are receiving **ESG / sustainability
 - **Ongoing support:** £399/month (optional)
 
 ### Example documents
-### Example documents
 - [ESG Readiness Checklist (PDF)](https://github.com/safiahmed6677-eng/safiahmed6677-eng/blob/main/esg-readiness/ESG_Readiness_Checklist.pdf)
 - [Initial ESG Data Request (PDF)](https://github.com/safiahmed6677-eng/safiahmed6677-eng/blob/main/esg-readiness/Initial_ESG_Data_Request.pdf)
 
