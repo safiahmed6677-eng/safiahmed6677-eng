@@ -60,8 +60,8 @@ I help **UK SMEs (10–250 employees)** who are receiving **ESG / sustainability
 - 1–2 page ESG readiness summary
 
 ### Pricing
-- **7-day setup:** £495 (one-off)  
-- **Ongoing support:** £399/month (optional)
+- **7-day setup:** £599 (one-off)  
+- **Ongoing support:** £499/month (optional)
 
 ### Example documents
 - [ESG Readiness Checklist (PDF)](https://github.com/safiahmed6677-eng/safiahmed6677-eng/blob/main/esg-readiness/ESG_Readiness_Checklist.pdf)
